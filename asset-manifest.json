@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ravikant-sharma781/OctaNet_Project2/static/css/main.e0dc67de.css",
+    "main.js": "/ravikant-sharma781/OctaNet_Project2/static/js/main.89c15fd7.js",
+    "static/js/787.a5cad257.chunk.js": "/ravikant-sharma781/OctaNet_Project2/static/js/787.a5cad257.chunk.js",
+    "index.html": "/ravikant-sharma781/OctaNet_Project2/index.html",
+    "main.e0dc67de.css.map": "/ravikant-sharma781/OctaNet_Project2/static/css/main.e0dc67de.css.map",
+    "main.89c15fd7.js.map": "/ravikant-sharma781/OctaNet_Project2/static/js/main.89c15fd7.js.map",
+    "787.a5cad257.chunk.js.map": "/ravikant-sharma781/OctaNet_Project2/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0dc67de.css",
+    "static/js/main.89c15fd7.js"
+  ]
+}
